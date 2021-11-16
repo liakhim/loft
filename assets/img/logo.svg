@@ -1,0 +1,19 @@
+<svg width="593" height="190" viewBox="0 0 593 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="445" width="23" height="112" transform="rotate(90 445 0)" fill="white"/>
+<rect x="593" width="23" height="140" transform="rotate(90 593 0)" fill="white"/>
+<rect x="534" y="190" width="24" height="190" transform="rotate(-180 534 190)" fill="white"/>
+<rect x="422" y="84" width="23" height="89" transform="rotate(90 422 84)" fill="white"/>
+<rect x="333" width="26" height="190" fill="white"/>
+<rect width="26" height="190" fill="white"/>
+<rect x="110" y="167" width="23" height="110" transform="rotate(90 110 167)" fill="white"/>
+<path d="M312 95C312 147.467 271.482 190 221.5 190C171.518 190 131 147.467 131 95C131 42.5329 171.518 0 221.5 0C271.482 0 312 42.5329 312 95ZM153.946 95C153.946 134.164 184.191 165.913 221.5 165.913C258.809 165.913 289.054 134.164 289.054 95C289.054 55.8357 258.809 24.0868 221.5 24.0868C184.191 24.0868 153.946 55.8357 153.946 95Z" fill="white"/>
+<rect x="175" y="48" width="3" height="18" fill="white"/>
+<rect x="187" y="47" width="3" height="19" fill="white"/>
+<rect x="199" y="47" width="3" height="19" fill="white"/>
+<rect x="205" y="47" width="3" height="19" fill="white"/>
+<rect x="169" y="50" width="3" height="15" transform="rotate(-90 169 50)" fill="white"/>
+<rect x="205" y="66" width="3" height="12" transform="rotate(-90 205 66)" fill="white"/>
+<rect x="205" y="58" width="3" height="10" transform="rotate(-90 205 58)" fill="white"/>
+<rect x="205" y="50" width="3" height="12" transform="rotate(-90 205 50)" fill="white"/>
+<rect x="187" y="55" width="15" height="3" fill="white"/>
+</svg>

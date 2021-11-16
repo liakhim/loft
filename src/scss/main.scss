@@ -1,0 +1,62 @@
+@import "general/normalize";
+@import "general/color-scheme";
+@import "components/logo";
+.app {
+  background-image: url("/assets/img/IMG_7099.PNG");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  margin: auto;
+  max-width: 100%;
+  .container {
+    min-height: 100vh;
+    height: 100%;
+    max-width: 1200px;
+    margin: auto;
+    .logo {
+      padding-top: 20px;
+    }
+    .title {
+      margin-top: 2rem;
+      h2 {
+        text-transform: uppercase;
+        line-height: 1.6;
+        font-size: 2rem ;
+      }
+    }
+    .content {
+      display: flex;
+      align-items: flex-start;
+      width: 100%;
+      margin-top: 2rem;
+      @media (max-width: 700px) {
+        flex-direction: column;
+        .menu-column {
+          width: 100%;
+        }
+      }
+      .menu-column {
+        border: 1px solid green;
+        flex: 1;
+        &-subtitle {
+          h3 {
+            font-size: 1.5rem;
+            line-height: 1.6;
+          }
+        }
+        .menu-block {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          &-title {
+            li {
+              margin: 0.5rem 0;
+              font-size: 1.1rem;
+              font-weight: bold;
+            }
+          }
+        }
+      }
+    }
+  }
+}
